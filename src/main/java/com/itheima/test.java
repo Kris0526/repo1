@@ -5,5 +5,6 @@ public class test {
         int a = 1;
         System.out.println(a);
         System.out.println(1);
+        System.out.println(2);
     }
 }
